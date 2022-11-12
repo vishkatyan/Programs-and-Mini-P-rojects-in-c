@@ -1,1 +1,1 @@
-# Programs-and-Mini-P-rojects-in-c
+# Programs-and-Mini-Projects-in-c
